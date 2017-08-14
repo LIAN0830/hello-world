@@ -1,1 +1,4 @@
 hello world!
+On GitHub, saved changes are called commits.Each commit has an associated commit message.保存修改成为commits.每个commit有相关连的commit message。
+commit message is a description explaining why a particular change was made.commit message是解释为什么要做出修改的描述
+Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
